@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/akakimmykim/static/css/main.a0b8ba56.chunk.css",
+    "main.js": "/akakimmykim/static/js/main.6746beb5.chunk.js",
+    "main.js.map": "/akakimmykim/static/js/main.6746beb5.chunk.js.map",
+    "runtime~main.js": "/akakimmykim/static/js/runtime~main.652d3a70.js",
+    "runtime~main.js.map": "/akakimmykim/static/js/runtime~main.652d3a70.js.map",
+    "static/css/2.22a7d4ef.chunk.css": "/akakimmykim/static/css/2.22a7d4ef.chunk.css",
+    "static/js/2.e36f2a49.chunk.js": "/akakimmykim/static/js/2.e36f2a49.chunk.js",
+    "static/js/2.e36f2a49.chunk.js.map": "/akakimmykim/static/js/2.e36f2a49.chunk.js.map",
+    "index.html": "/akakimmykim/index.html",
+    "precache-manifest.634b0557d171c4b5d799be0671387d99.js": "/akakimmykim/precache-manifest.634b0557d171c4b5d799be0671387d99.js",
+    "service-worker.js": "/akakimmykim/service-worker.js",
+    "static/css/2.22a7d4ef.chunk.css.map": "/akakimmykim/static/css/2.22a7d4ef.chunk.css.map",
+    "static/css/main.a0b8ba56.chunk.css.map": "/akakimmykim/static/css/main.a0b8ba56.chunk.css.map",
+    "static/media/Home.css": "/akakimmykim/static/media/Teaching.46be5178.gif",
+    "static/media/Logo 400px.jpg": "/akakimmykim/static/media/Logo 400px.ad977211.jpg",
+    "static/media/casualPortrait.jpg": "/akakimmykim/static/media/casualPortrait.476e65b3.jpg",
+    "static/media/professionalPortrait.jpg": "/akakimmykim/static/media/professionalPortrait.c109d0f2.jpg",
+    "static/media/semi-professional photo.jpg": "/akakimmykim/static/media/semi-professional photo.9b937576.jpg",
+    "static/media/signature.jpg": "/akakimmykim/static/media/signature.1c8eaaf3.jpg"
+  }
+}
